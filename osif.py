@@ -4,6 +4,8 @@ import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
      Jangan Direcode ya bosku , tinggal make apa susahnya sih
+                DiBuat Oleh Koyuzu Tegar Revoer
+
 '''
 ###################################################################
 #                             COLOR
